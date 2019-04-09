@@ -14,6 +14,17 @@ __this text is bold too__
   3. yep, also a list
       1. sub-item
   4. another list item
+  
+  1. ordered
+  1. ordered
+    * sub-list
+    * more sublist
+  1. ordered
+  
+First Header | Second Header
+------------ | --------------
+content from cell 1 | content from cell 2
+content in the first column | content in the second column
 
 Project folder for all work in spring 2019 DF Medill class
 
