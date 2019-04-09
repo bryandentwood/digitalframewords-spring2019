@@ -22,10 +22,19 @@ __this text is bold too__
     * more sublist
   1. ordered
   
+ # Chart
+  
 First Header | Second Header
 ------------ | --------------
 content from cell 1 | content from cell 2
 content in the first column | content in the second column
+
+# Fundamentals of Markdown
+
+Links
+[text](url)
+
+# Practice
 
 Project folder for all work in spring 2019 DF Medill class
 
