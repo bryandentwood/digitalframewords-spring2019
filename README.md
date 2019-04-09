@@ -9,9 +9,6 @@ __this text is bold too__
 
 *this text is italic* __this part of the text is bold__
 
-* item
-* item
-* item
 
   1. this is a list item
   2. this is another list item
