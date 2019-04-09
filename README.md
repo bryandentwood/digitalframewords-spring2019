@@ -12,7 +12,7 @@ __this text is bold too__
   1. this is a list item
   2. this is another list item
   3. yep, also a list
-    1. sub-item
+      1. sub-item
   4. another list item
 
 Project folder for all work in spring 2019 DF Medill class
