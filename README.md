@@ -1,4 +1,4 @@
-# digitalframewords-spring2019
+# Digitalframewords-spring2019
 ### By Bryan Wood
 
 Project folder for all work in spring 2019 DF Medill class
