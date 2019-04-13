@@ -2,15 +2,15 @@
 
 ### Due 6pm Tuesday, April 16
 
-[Is Climate Change Making Hurricanes Worse?](https://www.theguardian.com/weather/ng-interactive/2018/sep/11/atlantic-hurricanes-are-storms-getting-worse)
+### [Is Climate Change Making Hurricanes Worse?](https://www.theguardian.com/weather/ng-interactive/2018/sep/11/atlantic-hurricanes-are-storms-getting-worse)
 
 Some North Carolina residents remain homeless 6 months after Hurricane Florence struck their area in September causing the most devastating flooding in a decade. How much money was spent by the government, private sector and non-profits to help displaced persons relocate?  Will exploring spending data over the last decade reveal more homeless and need for shelter alongside the growing intensity and quantity of superstorms? 
 
 
-### Objective: Clarity and accuracy
+#### Objective: Clarity and accuracy
 * Were you able to immediately identify the central insight the reporter was trying to communicate? Answer on a 1-5 scale, with 5 being excellent and 1 being below expectations.
 
-4 Based on the headline and it being a question, the reporter aimed to explore the conversation around intensifying climate disasters. The subhead was more direct pointing to worrying long-term trends. It was not a 5 because the main headline had room to reveal as much as the subhead does.
++4+ Based on the headline and it being a question, the reporter aimed to explore the conversation around intensifying climate disasters. The subhead was more direct pointing to worrying long-term trends. It was not a 5 because the main headline had room to reveal as much as the subhead does.
  
 * Were you able to quickly understand how you would navigate the data? Again, use a 5- point scale with 5 = excellent
 
@@ -20,7 +20,7 @@ Some North Carolina residents remain homeless 6 months after Hurricane Florence 
 
 3 Using my own knowledge, I have full confidence in the Guardian’s standards for data reporting, so expert the report to be as currently accurate as possible. However, as an uninformed reader, the Guardian reporter could have mentioned the National Hurricane Center because it appeared to be the central source of the relevant data. The article successfully cited the sources of the graphics’ data, reports, and helpful articles, but the process by which the reporter deciphered unbiased data could have been disclosed. Transparency is key to building a relationship with the publication’s audience.
 
-Objective: Quality
+#### Objective: Quality
 * Regardless of the form that the graphic/story takes, was it executed at a high degree of quality? (Rank 1-5, with five excellent.)
 
 4 Yes, the piece accomplished its goal. The reporter presented the message upfront, that storms are increasingly more intense and damaging, they presented data to support their claim, and included engaging visuals that complimented the text. Any critiques are above in the data visuals analysis.
@@ -28,7 +28,7 @@ Objective: Quality
 The graphics were straightforward but dry. It could have done better to compare the past decade of storm damage with videos or photos that depict the impact on communities, homes, or cities.
 
 
-Objective: Type and color (if piece includes graphics)
+#### Objective: Type and color (if piece includes graphics)
 * Based on your knowledge of color and type use, did this person use type (as in typography, fonts) and color to their best purpose?
 
 4 The color is streamlined throughout. The Guardian has clearly put time into a brand, but I’m not sure red, orange and yellow were the strongest combination of colors. I wish there was a greater use of real-life photos/video to add color to the graphics. As for the story, it aligned with its data focus.
