@@ -1,5 +1,15 @@
 ## Assignment 3
 
+Original 15-24 [dataset](https://github.com/bryandentwood/digitalframewords-spring2019/blob/master/15-24%20Original.csv)
+
+Original 25-54 [dataset](https://github.com/bryandentwood/digitalframewords-spring2019/blob/master/25-54%20Original.csv)
+
+Original 55-64 [dataset](https://github.com/bryandentwood/digitalframewords-spring2019/blob/master/55-64%20Original.csv)
+
+Final consolidated [dataset](https://github.com/bryandentwood/digitalframewords-spring2019/blob/master/Final%20Consolidated.csv)
+
+### Instructions
+
 1. The website [here](https://data.oecd.org/emp/employment-rate-by-age-group.htm#indicator-chart), which is the source of the raw data, won’t allow the downloader to accomplish the above purpose, so first start with the 15-24 age range as my primary
 template to copy and paste other age range data sets. 
 
