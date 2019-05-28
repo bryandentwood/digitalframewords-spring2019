@@ -1,5 +1,7 @@
 # Assignment 5
 
+Data set [found here](https://github.com/bryandentwood/digitalframewords-spring2019/blob/master/most_followed_ig.csv)
+
 ## Headline
 
 A Look To 2020: How Important is Instagram for Presidential Candidates?
