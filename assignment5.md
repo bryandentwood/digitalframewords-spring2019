@@ -30,3 +30,15 @@ more important to audience engagement.
 4. How is audience engagement determined?
 According to Iconosquare, the source of the data, engagement rate is based on the likes and comments received 
 divided by the number of followers at the time of the post.
+
+### Data Steps
+
+1. Order data according to number of followers
+2. Reorder data according to engagement rate
+3. Reorder table according to number of media posts
+4. Analyze across tables - find that it’s not about number of posts, but intention (back up with support from source)
+5. Rerank according to engagement rate, place alongside table
+(=(cell)+1), drag down formula
+6. Create a pivot table to find what type of celebrities have the highest number of followers 
+7. Average the ranking numbers to analyze correlation between number of followers and audience engagement rating.
+(=AVERAGE(cell a:b))
