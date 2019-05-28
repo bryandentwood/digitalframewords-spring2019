@@ -1,6 +1,7 @@
 # Assignment 5
 
 Data set [found here](https://github.com/bryandentwood/digitalframewords-spring2019/blob/master/most_followed_ig.csv)
+Original source [found here](https://data.world/socialmediadata/most-followed-on-instagram/workspace/project-summary)
 
 ## Headline
 
